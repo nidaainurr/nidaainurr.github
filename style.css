@@ -4,7 +4,7 @@ body, html {
     height: 100%;
 }
 body { 
-    background: black; 
+    background: url(landing.jpg) no-repeat center center fixed;
     background-size: cover;
   }  
 
